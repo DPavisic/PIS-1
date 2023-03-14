@@ -8,11 +8,11 @@ namespace ConsoleApp3
     {
         static void Empty()
         {
-            Console.WriteLine("New");
+            Console.WriteLine("New line");
         }
         static void Empty2()
         {
-
+         
         }
     }
 }
