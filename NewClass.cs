@@ -10,5 +10,9 @@ namespace ConsoleApp3
         {
 
         }
+        static void Empty2()
+        {
+
+        }
     }
 }
