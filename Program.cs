@@ -8,8 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello World!!!");
             Console.WriteLine("\nNovi red");
-Console.WriteLine("Noviji red
-");
+Console.WriteLine("Noviji red");
         }
     }
 }
