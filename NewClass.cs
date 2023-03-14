@@ -8,7 +8,7 @@ namespace ConsoleApp3
     {
         static void Empty()
         {
-
+            Console.WriteLine("New");
         }
         static void Empty2()
         {
